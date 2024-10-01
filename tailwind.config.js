@@ -23,6 +23,7 @@ export default {
     },
     fontFamily: {
       'inter': [ "Inter", 'sans-serif'],
+      'Ptserif':["PT Serif", "serif"],
      
     }
   },
